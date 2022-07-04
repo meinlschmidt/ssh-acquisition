@@ -1,3 +1,4 @@
 # ssh-acquisition
 
-A Python Script to acquire forensic relevant data from any device using a ssh connection.
+A Python Script to acquire forensic relevant data (e.g. a process list) from any device using a ssh connection.
+Acquired data is parsed into JSON and then saved into a MongoDB collection.
